@@ -37,4 +37,6 @@
 > ⚡ **"哈哈哈哈哈，機械硬碟有 300GB 當雲端用！"**
 > 
 > 本次架設成功證明，透過合理的系統規劃（SSD 負責系統與 Docker 評測、HDD 負責大容量 SFTP 儲存），即便是報廢的舊主機，也能在 2 小時內重獲新生，變身為效能強勁、極具實用價值的校園/個人教學伺服器。
+>
+> 
 ![image](https://github.com/dr-chenglung/letsoj/blob/main/documents/00-上架OJ重點整理.jpg)
